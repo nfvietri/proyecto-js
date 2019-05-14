@@ -1,0 +1,26 @@
+#logo{
+
+	background: #E3478B;
+
+}
+
+body{
+
+	background: url('../img/zappa.jpg');
+	background-attachment: fixed;
+}
+
+#menu{
+
+	background: #333;
+
+}
+
+#menu ul li:hover{
+	background: #E3478B;
+}
+
+#acordeon h3{
+	background: #E3478B;
+	color: white;
+}

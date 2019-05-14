@@ -1,0 +1,22 @@
+#logo{
+
+	background: #235E3D;
+
+}
+
+body{
+
+	background: url('../img/books.jpg');
+	background-attachment: fixed;
+}
+
+#menu{
+
+	background: #333;
+
+}
+
+#acordeon h3{
+	background: #235E3D;
+	color: white;
+}

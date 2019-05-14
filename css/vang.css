@@ -1,0 +1,26 @@
+#logo{
+
+	background: #0A4B8C;
+
+}
+
+body{
+
+	background: url('../img/vang.jpg');
+	background-attachment: fixed;
+}
+
+#menu{
+
+	background: #333;
+
+}
+
+#menu ul li:hover{
+	background: #0A4B8C;
+}
+
+#acordeon h3{
+	background: #0A4B8C;
+	color: white;
+}
